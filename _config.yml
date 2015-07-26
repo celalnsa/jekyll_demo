@@ -1,1 +1,5 @@
 baseurl: /jekyll_demo
+comments:
+provider: disqus
+disqus:
+short_name: highhe
